@@ -30,26 +30,59 @@
   Tech Stack
 </h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=plastic&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
-</p>
+<table align="center">
+<tr>
+<td>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
+</td>
+<td>
+	<img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E">
+</td>
+<td>
+ 	<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white">
+</td>
+<td>
+	 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
+</td>
+	<td>
+	 <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white">
+</td>
+<td>
+	<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=plastic&logo=bootstrap&logoColor=white">
+</td>
+<td>
+ 	 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white">
+</td>
+<td>
+	 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white">
+</td>
+	<td>
+ 	 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white">
+</td>
+<td>
+	 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white">
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;*GitHub Stats:*
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Naseeha-Zeenath&theme=algolia&hide_border=false&include_all_commits=false&count_private=true"/>
-  <img  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Naseeha-Zeenath&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-</p>
+<table align="center">
+<tr>
+<td>
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Naseeha-Zeenath&theme=algolia&count_private=true"/>
+
+</td>
+
+<td>
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Naseeha-Zeenath&layout=compact&theme=algolia"/>
+
+</td>
+</tr>
+</table>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Naseeha-Zeenath&theme=algolia&hide_border=false"/>
