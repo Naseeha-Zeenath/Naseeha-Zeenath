@@ -78,9 +78,12 @@
 </tr>
 </table>
 <br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Naseeha-Zeenath&theme=algolia&hide_border=false"/>
-</div>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naseeha-Zeenath&theme=github-dark&bg_color=0d1117&color=00e5ff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/Naseeha-Zeenath)
+
+
+lish_branch: output
+
 
 <br/>
 
